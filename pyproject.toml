@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-qwen_img_2_1_enhancer"
 description = "Qwen image 2.1 Enhancement Nodes"
-version = "1.0.0"
+version = "1.1.0"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
